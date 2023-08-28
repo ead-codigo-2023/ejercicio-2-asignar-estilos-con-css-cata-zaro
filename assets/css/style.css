@@ -1,6 +1,10 @@
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: azure;
+    width: 1280px;
+    height: 640px;
+    flex-shrink: 0;
+    border-radius: 40px;
+    background: #F4F6F5;
 }
 
 h1{
@@ -16,6 +20,10 @@ p{
     font-weight: 400;
     font-size: 24px;
     margin-top: 100px;
+    width: 450.977px;
+    height: 43.568px;
+    flex-shrink: 0;
+    letter-spacing: -1.2px;
 }
 
 a {
@@ -30,7 +38,7 @@ a {
 
 .hero{
     padding: 30px 500px 30px 50px;
-    background-image: url(../img/image.jpg);
+    background-image: url(../img/image\ 2.svg);
     background-repeat: no-repeat;
     background-position: bottom right;
 }
